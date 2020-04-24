@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LastLose</string>
+    <string name="player1">Player1</string>
+    <string name="player2">Player2</string>
+    <string name="play">Play</string>
+    <string name="pass">Pass</string>
+</resources>

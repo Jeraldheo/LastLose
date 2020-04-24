@@ -1,0 +1,2 @@
+rootProject.name='LastLose'
+include ':app'
